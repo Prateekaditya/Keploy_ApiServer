@@ -277,7 +277,7 @@ describe('Feature Name', () => {
 ```env
 NODE_ENV=production
 PORT=3000
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/database
+MONGODB_URI=url
 ```
 
 ### Running Tests in CI/CD
